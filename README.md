@@ -1,0 +1,1 @@
+The repository consists a list of tasks assigned to me for completion during my **Software Development Internship ** at **Prodigy Infotech**. The internship helped me to create programs and deepen my understanding of how the real life projects and game application work. It also allowed me to build better logic while writing user driven programs.
