@@ -62,7 +62,7 @@ def print_board(board):
 
 if __name__ == "__main__":
     choice = input("Enter 1 if you wish to enter your own unsolved sudoku puzzle, 2 for in-built puzzle")
-    if(choice == '1'):
+    if(choice == '2'):
         sudoku_board = [
             [5, 3, 0, 0, 7, 0, 0, 0, 0],
             [6, 0, 0, 1, 9, 5, 0, 0, 0],
@@ -74,7 +74,7 @@ if __name__ == "__main__":
             [0, 0, 0, 4, 1, 9, 0, 0, 5],
             [0, 0, 0, 0, 8, 0, 0, 7, 9]
         ]
-    elif(choice == '2'):
+    elif(choice == '1'):
         sudoku_board = get_sudoku_input()
 
     else:
